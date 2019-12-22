@@ -1,4 +1,5 @@
-# _ ** Cracking The Coding Inteview ** _
+# _**Cracking The Coding Inteview**_
+
 
 >Cracking The Coding Interview is a book for preparing for coding interview that contains 179 problems with solutions(5th edition) from various topics including Array, String, Linked list, Stack , Queue, Tree, Graphs ,Recursion ,Dynamic Programming and many more.
 
@@ -65,7 +66,7 @@ _The contents are shown below._
 - Animal Shelter
 
 
-### Trees and Graphs
+### Chapter 4 - Trees and Graphs
 
 - Route Between Nodes 
 
@@ -90,54 +91,4 @@ _The contents are shown below._
 - Random Node
 
 - Paths and Sum
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
