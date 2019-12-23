@@ -1,0 +1,4 @@
+1. In case of string problems, convert it to char[] for better manipulation.
+
+2. For cha[], try to use a boolean[] which by default contains "false" for every element. You can convert the characters into an int[] with
+   the ASCII value of characters as index of the int[] for better manipulation.(See the first problem : isUnique)
